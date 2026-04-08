@@ -33,3 +33,6 @@ Thumbs.db
 .vscode/
 *.swp
 *.swo
+
+# External datasets
+elliptic_bitcoin_dataset/elliptic_txs_features.csv

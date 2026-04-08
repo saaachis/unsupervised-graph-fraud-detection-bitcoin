@@ -1,0 +1,15 @@
+# Core (baseline UML + evaluation)
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+scipy>=1.11
+matplotlib>=3.7
+jupyter>=1.0
+ipykernel>=6.0
+
+# Graph autoencoder in notebook 02 (install PyTorch for your OS first — see pytorch.org)
+torch>=2.0
+torch-geometric>=2.4
+
+# Optional — more graph detectors
+# pygod>=1.0
